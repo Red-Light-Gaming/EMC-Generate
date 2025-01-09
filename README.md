@@ -18,8 +18,7 @@ A Python script that adds EMC values to items in Minecraft's Project E based on 
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/project-emc-value-generator.git
-   cd project-emc-value-generator
+   git clone https://github.com/Red-Light-Gaming/EMC-Generate.git
    ```
 
 2. **Place Your Log File**:
